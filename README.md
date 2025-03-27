@@ -22,7 +22,8 @@
 
 ###
 
-<p align="left">Facendia<br>A task manager built with the MERN stack, designed to help users track daily tasks and analyze their productivity and behaviors.<br><br>Features: Productivity tracking, behavioral insights, and data export for better efficiency.<br>Goal: To ensure users can build a more effective and well-organized everyday life.</p>
+<p align="left">Zweat<br>Zweat is a Laravel-based workout tracker that allows users to log their workouts, track progress, and analyze training patterns.<br><br>Features: Workout Logging – Easily record and track your workouts, behavioral Insights – Gain data-driven insights into your training habit, progress Tracking – Monitor improvements over time and data Export – Export your workout data for better analysis.<br>Goal: To help users build a more effective, structured, and well-organized fitness routine.
+</p>
 
 ###
 
