@@ -29,7 +29,6 @@
   <br>Data Export – Export your workout data for better analysis.
   <br>
   <br>Goal:
-  <br> 
   <br>To help users build a more effective, structured, and well-organized fitness routine.
 </p>
 
