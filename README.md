@@ -26,7 +26,11 @@
   <br>Workout Logging – Easily record and track your workouts 
   <br>Behavioral Insights – Gain data-driven insights into your training habit 
   <br>Progress Tracking – Monitor improvements over time 
-  <br>Data Export – Export your workout data for better analysis.<br>Goal: To help users build a more effective, structured, and well-organized fitness routine.
+  <br>Data Export – Export your workout data for better analysis.
+  <br>
+  <br>Goal:
+  <br> 
+  <br>To help users build a more effective, structured, and well-organized fitness routine.
 </p>
 
 ###
