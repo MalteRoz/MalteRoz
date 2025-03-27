@@ -22,7 +22,11 @@
 
 ###
 
-<p align="left">Zweat<br>Zweat is a Laravel-based workout tracker that allows users to log their workouts, track progress, and analyze training patterns.<br><br>Features: Workout Logging – Easily record and track your workouts, behavioral Insights – Gain data-driven insights into your training habit, progress Tracking – Monitor improvements over time and data Export – Export your workout data for better analysis.<br>Goal: To help users build a more effective, structured, and well-organized fitness routine.
+<p align="left">Zweat<br>Zweat is a Laravel-based workout tracker that allows users to log their workouts, track progress, and analyze training patterns.<br><br>Features: 
+  <br>Workout Logging – Easily record and track your workouts 
+  <br>Behavioral Insights – Gain data-driven insights into your training habit 
+  <br>Progress Tracking – Monitor improvements over time 
+  <br>Data Export – Export your workout data for better analysis.<br>Goal: To help users build a more effective, structured, and well-organized fitness routine.
 </p>
 
 ###
