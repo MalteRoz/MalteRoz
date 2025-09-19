@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Fullstack developer student</h4>
+<h4 align="left">Fullstack engineer</h4>
 
 ###
 
