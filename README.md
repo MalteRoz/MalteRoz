@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello! I'm Malte, a passionate developer with a keen interest in web, app and Saas development. I love solving problems, learning new technologies and develope idees into real working projects. <br>📚 I'm currently working on expanding my knowledge in backend development to ensure safe data storage for the users <br>🎯 Goals: To build scalable and user-friendly applications that make a real impact, contribute to open-source projects, and continuously grow as a developer.</p>
+<p align="left">Hello! I'm Malte, a passionate developer with a keen interest in web, app and Saas development. I focus on buildning user-friendly applications tha make a real impact to my users </p>
 
 ###
 
