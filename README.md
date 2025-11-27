@@ -1,44 +1,26 @@
 <h1 align="left">Malte Rozenbeek</h1>
-
-###
-
-<h4 align="left">Fullstack engineer</h4>
-
-###
+<div align="left">
+  <img src="https://img.shields.io/badge/Fullstack_Developer-blue?style=for-the-badge" alt="Fullstack Developer" />
+</div>
 
 <h2 align="left">About me</h2>
+<p align="left">Hello! I'm Malte, a fullstack developer passionate about building user-friendly web and mobile applications that make a real impact.</p>
 
-###
+<h2 align="left">Currently Working On</h2>
+Platskompis – A tool for teachers to create optimized classroom seat placements using customizable rulesets, making seating arrangements quicker and easier.
 
-<p align="left">Hello! I'm Malte, a passionate developer with a keen interest in web, app and Saas development. I focus on buildning user-friendly applications tha make a real impact to my users </p>
+<br>
+<br>
 
-###
+Traffic Update Worker – A background worker that pings user-selected commute routes at specific times, helping track commutes and reduce unnecessary phone usage.
 
-<h2 align="left">🚀 Current Projects</h2>
-
-###
-
-<p align="left">FridgeScanner<br>A machine learning app built in React Native where users can scan their fridge and get healthy recipe suggestions based on the ingredients they have at home.<br><br>Highlights: Uses AI to provide tailored cooking tips.<br>Goal: To reduce food waste and promote healthy eating habits.</p>
-
-###
-
-<p align="left">Zweat<br>Zweat is a Laravel-based workout tracker that allows users to log their workouts, track progress, and analyze training patterns.<br><br>Features: 
-  <br>Workout Logging – Easily record and track your workouts 
-  <br>Behavioral Insights – Gain data-driven insights into your training habit 
-  <br>Progress Tracking – Monitor improvements over time 
-  <br>Data Export – Export your workout data for better analysis.
-  <br>
-  <br>Goal:
-  <br>To help users build a more effective, structured, and well-organized fitness routine.
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
+<h2 align="left">Tech Stack</h2>
 <div align="center">
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,php,nodejs,express,mongodb,mysql,postgres,git,docker" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,php,nodejs,fastapi,express&perline=9" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,tailwind,html,css,git,docker&perline=8" />
   </a>
 </div>
