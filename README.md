@@ -12,7 +12,7 @@ Platskompis – A tool for teachers to create optimized classroom seat placement
 <br>
 <br>
 
-Traffic Update Worker – A background worker that pings user-selected commute routes at specific times, helping track commutes and reduce unnecessary phone usage.
+Traffic Update Worker – A background worker that pings user-selected commute routes at specific times, helping track commutes and reduce unnecessary phone usage. 
 
 <h2 align="left">Tech Stack</h2>
 <div align="center">
