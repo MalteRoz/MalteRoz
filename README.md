@@ -7,12 +7,7 @@
 <p align="left">Hello! I'm Malte, a fullstack developer passionate about building user-friendly web and mobile applications that make a real impact.</p>
 
 <h2 align="left">Currently Working On</h2>
-Platskompis – A tool for teachers to create optimized classroom seat placements using customizable rulesets, making seating arrangements quicker and easier.
-
-<br>
-<br>
-
-Traffic Update Worker – A background worker that pings user-selected commute routes at specific times, helping track commutes and reduce unnecessary phone usage. 
+Kent – A Chrome extension that lets you fork web AI chats. Branch off from any message in ChatGPT, Claude, Gemini, Grok, or Perplexity into a new conversation with the relevant context carried over, even across providers. Kent also syncs in your existing chats so you can organize conversations from every platform into project folders.
 
 <h2 align="left">Tech Stack</h2>
 <div align="center">
